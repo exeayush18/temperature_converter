@@ -49,4 +49,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Made with ❤️ by [Ratnadeep Bhowmik](https://www.linkedin.com/in/deep2/)
+Made with ❤️ by [Ayush Singh](https://www.linkedin.com/in/exeayush/)
